@@ -8,4 +8,4 @@ O SIRE.EDU tem como objetivo aprimorar os processos de ensino-aprendizagem, torn
 
 ## Informações de Pesquisa
 * CAAE: 68763223.0.0000.5473
-* Instituição Proponente: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Jacare
+* Instituição Proponente: Instituto Federal de Educação, Ciência e Tecnologia de São Paulo - Campus Jacareí
