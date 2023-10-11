@@ -1,4 +1,4 @@
-# SIRE.EDU - Sistema de Recomendação de Produtos Educacionais e de Metodologias de Ensino
+# SIRE.EDU - Sistema de Recomendação de Produtos Educacionais e de Metodologias de Ensino 📚
 
 ## Apresentação
 Bem-vindo ao SIRE.EDU, o Sistema de Recomendação de Produtos Educacionais e de Metodologias de Ensino desenvolvido pelo pesquisador Lucineide Nunes Pimenta na área temática de Educação, Tecnologia, Produção e Inovação.
